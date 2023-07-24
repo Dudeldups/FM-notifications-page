@@ -1,8 +1,36 @@
-# React + Vite
+# Frontend Mentor - Notifications page solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [Links](#links)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### Links
+
+- [Solution on Frontend Mentor]()
+- [Live site]()
+
+### Screenshot
+
+#### Desktop
+
+![Solution](https://github.com/Dudeldups/FM-notifications-page/blob/main/screenshots/solution-desktop.png)
+
+## My process
+
+### Built with
+
+- HTML5
+- SCSS (BEM)
+
+## Author
+
+- Frontend Mentor - [@Dudeldups](https://www.frontendmentor.io/profile/Dudeldups)
