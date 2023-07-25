@@ -16,7 +16,7 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 ### Links
 
 - [Solution on Frontend Mentor]()
-- [Live site]()
+- [Live site](https://fm-notifications-page-9000.netlify.app/)
 
 ### Screenshot
 
@@ -28,8 +28,8 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 
 ### Built with
 
-- HTML5
-- SCSS (BEM)
+- React
+- Tailwind CSS
 
 ## Author
 

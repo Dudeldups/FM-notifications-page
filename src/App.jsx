@@ -1,8 +1,11 @@
+import NotificationsContainer from "./components/NotificationsContainer";
+
 function App() {
   return (
     <>
-      <h1 className="text-2xl">HELLO :)</h1>
-      <img src="./src/assets/images/image-chess.webp" alt="" />
+      <main className="font-plus-jakarta bg-clr-snow">
+        <NotificationsContainer />
+      </main>
     </>
   );
 }
