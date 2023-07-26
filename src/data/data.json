@@ -5,7 +5,6 @@
     "avatar": "assets/images/avatar-mark-webber.webp",
     "content": "reacted to your recent post",
     "link": "My first tournament today!",
-    "privateMessage": null,
     "isUnread": true,
     "postTime": "1m ago"
   },
@@ -14,8 +13,6 @@
     "name": "Angela Gray",
     "avatar": "assets/images/avatar-angela-gray.webp",
     "content": "followed you",
-    "link": null,
-    "privateMessage": null,
     "isUnread": true,
     "postTime": "5m ago"
   },
@@ -25,7 +22,6 @@
     "avatar": "assets/images/avatar-jacob-thompson.webp",
     "content": "has joined your group",
     "link": "Chess Club",
-    "privateMessage": null,
     "isUnread": true,
     "postTime": "1 day ago"
   },
@@ -34,7 +30,6 @@
     "name": "Rizky Hasanuddin",
     "avatar": "assets/images/avatar-rizky-hasanuddin.webp",
     "content": "sent you a private message",
-    "link": null,
     "privateMessage": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
     "isUnread": false,
     "postTime": "5 days ago"
@@ -44,8 +39,7 @@
     "name": "Kimberly Smith",
     "avatar": "assets/images/avatar-kimberly-smith.webp",
     "content": "commented on your picture",
-    "link": "assets/images/image-chess.webp",
-    "privateMessage": null,
+    "img": "assets/images/image-chess.webp",
     "isUnread": false,
     "postTime": "1 week ago"
   },
@@ -55,7 +49,6 @@
     "avatar": "assets/images/avatar-nathan-peterson.webp",
     "content": "reacted to your recent post",
     "link": "5 end-game strategies to increase your win rate",
-    "privateMessage": null,
     "isUnread": false,
     "postTime": "2 weeks ago"
   },
@@ -65,7 +58,6 @@
     "avatar": "assets/images/avatar-anna-kim.webp",
     "content": "left the group",
     "link": "Chess Club",
-    "privateMessage": null,
     "isUnread": false,
     "postTime": "2 weeks ago"
   }

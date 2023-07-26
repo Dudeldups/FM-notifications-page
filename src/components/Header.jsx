@@ -7,7 +7,7 @@ export default function Header({ amountUnread }) {
       <span className="bg-clr-blue text-base text-white font-extrabold px-[0.7rem] rounded-[0.375rem]">
         {amountUnread}
       </span>
-      <button className="ml-auto text-clr-grey-blue md:text-base hover:text-clr-blue">
+      <button className="ml-auto text-clr-grey-blue md:text-base transition-colors hover:text-clr-blue">
         Mark all as read
       </button>
     </header>
