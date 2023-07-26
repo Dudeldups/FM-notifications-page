@@ -1,13 +1,11 @@
 import NotificationsContainer from "./components/NotificationsContainer";
 
-function App() {
+export default function App() {
   return (
     <>
-      <main className="font-plus-jakarta bg-clr-snow md:h-screen md:grid md:place-content-center">
+      <div className="font-plus-jakarta font-medium text-[0.875rem] bg-clr-snow md:h-screen md:grid md:place-content-center">
         <NotificationsContainer />
-      </main>
+      </div>
     </>
   );
 }
-
-export default App;
