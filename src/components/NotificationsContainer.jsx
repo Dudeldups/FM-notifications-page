@@ -19,7 +19,7 @@ export default function NotificationsContainer() {
   ));
 
   return (
-    <main className="max-w-[45.625rem] bg-white px-4 md:px-[1.875rem] rounded-[0.9375rem]">
+    <main className="max-w-[45.625rem] bg-white px-2 sm:px-4 md:px-[1.875rem] rounded-[0.9375rem]">
       <Header amountUnread={amountUnread} />
       <div className="grid gap-2 pb-4">{allNotifications}</div>
     </main>

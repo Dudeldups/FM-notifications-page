@@ -3,14 +3,14 @@ export default function Notification({ props }) {
   const hasImg = "img" in props;
 
   let containerClassNames =
-    "flex gap-[0.8rem] md:gap-[1.2rem] p-4 md:py-[1.1rem] md:px-5 rounded-lg";
+    "flex gap-[0.8rem] md:gap-[1.2rem] p-2 sm:p-4 md:py-[1.1rem] md:px-5 rounded-lg";
   if (props.isUnread) {
     containerClassNames += " bg-clr-light-blue";
   }
 
   return (
     <section className={containerClassNames}>
-      <a href="#">
+      <a className="shrink-0" href="#">
         <img
           className="w-[2.4375rem] md:w-[2.8125rem] h-[2.4375rem] md:h-[2.8125rem] transition-transform hover:scale-110"
           src={props.avatar}
