@@ -11,6 +11,7 @@ export default function Header({ amountUnread, handleClick, getNotification }) {
       </div>
       <button
         className="transition-transform hover:scale-110"
+        aria-label="get new notification"
         onClick={getNotification}>
         <img
           className="w-10 h-10"

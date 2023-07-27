@@ -11,7 +11,10 @@ export default function Notification({ props }) {
 
   return (
     <section className={containerClassNames}>
-      <a className="shrink-0" href="#">
+      <a
+        className="shrink-0"
+        href="#"
+        aria-label={`visit profile of ${props.name}`}>
         <img
           className="w-[2.4375rem] md:w-[2.8125rem] h-[2.4375rem] md:h-[2.8125rem] transition-transform hover:scale-110"
           src={props.avatar}
@@ -49,7 +52,7 @@ export default function Notification({ props }) {
         )}
       </article>
       {hasImg && (
-        <a className="ml-auto shrink-0" href="#">
+        <a className="ml-auto shrink-0" href="#" aria-label="open image">
           <img
             className="w-[2.4375rem] md:w-[2.8125rem] h-[2.4375rem] md:h-[2.8125rem] transition-transform hover:scale-110"
             src={props.img}
