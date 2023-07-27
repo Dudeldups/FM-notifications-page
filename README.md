@@ -26,11 +26,11 @@ Your users should be able to:
 
 ### Added features
 
--
+- Custom notification button to display new notifications
 
 ### Links
 
-- [Solution on Frontend Mentor]()
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/reacttailwind-custom-notifications-page-O3emVZfxOb)
 - [Live site](https://fm-notifications-page-9000.netlify.app/)
 
 ### Screenshot
