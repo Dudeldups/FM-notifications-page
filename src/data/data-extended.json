@@ -1,0 +1,55 @@
+[
+  {
+    "id": 13,
+    "name": "Angela Gray",
+    "avatar": "assets/images/avatar-angela-gray.webp",
+    "content": "sent you a private message",
+    "privateMessage": "Hey it's me again! I'm out for today.\nPS: I finished your laundry earlier today, you can come over whenever you're free to pick it up. Also, don't forget there's some delicious homemade lasagna in the fridge for you.\nMom ❤️",
+    "isUnread": true,
+    "postTime": "1m ago"
+  },
+  {
+    "id": 12,
+    "name": "Angela Gray",
+    "avatar": "assets/images/avatar-angela-gray.webp",
+    "content": "reacted to your picture",
+    "img": "assets/images/image-chess.webp",
+    "isUnread": true,
+    "postTime": "1m ago"
+  },
+  {
+    "id": 11,
+    "name": "Angela Gray",
+    "avatar": "assets/images/avatar-angela-gray.webp",
+    "content": "reacted to your recent post",
+    "link": "My first tournament today!",
+    "isUnread": true,
+    "postTime": "1m ago"
+  },
+  {
+    "id": 10,
+    "name": "Angela Gray",
+    "avatar": "assets/images/avatar-angela-gray.webp",
+    "content": "has joined your group",
+    "link": "Chess Club",
+    "isUnread": true,
+    "postTime": "1m ago"
+  },
+  {
+    "id": 9,
+    "name": "Angela Gray",
+    "avatar": "assets/images/avatar-angela-gray.webp",
+    "content": "sent you a private message",
+    "privateMessage": "Hey sweetheart, big news! I just made an account here! 🎉\nLOL (Lots Of Love)\nMom ❤️",
+    "isUnread": true,
+    "postTime": "1m ago"
+  },
+  {
+    "id": 8,
+    "name": "Angela Gray",
+    "avatar": "assets/images/avatar-angela-gray.webp",
+    "content": "sent you a friend request",
+    "isUnread": true,
+    "postTime": "1m ago"
+  }
+]

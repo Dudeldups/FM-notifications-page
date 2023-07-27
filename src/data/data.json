@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 7,
     "name": "Mark Webber",
     "avatar": "assets/images/avatar-mark-webber.webp",
     "content": "reacted to your recent post",
@@ -9,7 +9,7 @@
     "postTime": "1m ago"
   },
   {
-    "id": 2,
+    "id": 6,
     "name": "Angela Gray",
     "avatar": "assets/images/avatar-angela-gray.webp",
     "content": "followed you",
@@ -17,7 +17,7 @@
     "postTime": "5m ago"
   },
   {
-    "id": 3,
+    "id": 5,
     "name": "Jacob Thompson",
     "avatar": "assets/images/avatar-jacob-thompson.webp",
     "content": "has joined your group",
@@ -35,7 +35,7 @@
     "postTime": "5 days ago"
   },
   {
-    "id": 5,
+    "id": 3,
     "name": "Kimberly Smith",
     "avatar": "assets/images/avatar-kimberly-smith.webp",
     "content": "commented on your picture",
@@ -44,7 +44,7 @@
     "postTime": "1 week ago"
   },
   {
-    "id": 6,
+    "id": 2,
     "name": "Nathan Peterson",
     "avatar": "assets/images/avatar-nathan-peterson.webp",
     "content": "reacted to your recent post",
@@ -53,7 +53,7 @@
     "postTime": "2 weeks ago"
   },
   {
-    "id": 7,
+    "id": 1,
     "name": "Anna Kim",
     "avatar": "assets/images/avatar-anna-kim.webp",
     "content": "left the group",
