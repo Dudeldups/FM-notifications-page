@@ -11,7 +11,8 @@ export default {
         "plus-jakarta": "Plus Jakarta Sans",
       },
       colors: {
-        "clr-snow": "#f7fafd",
+        "clr-snow": "#f9fafd",
+        "clr-snow-blue": "#f7fafd",
         "clr-blue": "#0a327b",
         "clr-red": "#f65552",
         "clr-dark-blue": "#1c202b",

@@ -6,7 +6,7 @@ export default function Notification({ props }) {
   let containerClassNames =
     "flex gap-[0.8rem] md:gap-[1.2rem] p-2 sm:p-4 md:py-[1.1rem] md:px-5 rounded-lg";
   if (props.isUnread) {
-    containerClassNames += " bg-clr-snow";
+    containerClassNames += " bg-clr-snow-blue";
   }
 
   return (
