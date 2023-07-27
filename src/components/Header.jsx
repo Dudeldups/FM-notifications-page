@@ -15,7 +15,7 @@ export default function Header({ amountUnread, handleClick, getNotification }) {
         onClick={getNotification}>
         <img
           className="w-10 h-10"
-          src="assets\images\notification-alert-svgrepo-com.svg"
+          src="assets/images/notification-alert-svgrepo-com.svg"
           alt=""
         />
       </button>
